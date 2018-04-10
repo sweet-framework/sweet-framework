@@ -92,7 +92,7 @@
 </br>
 
 # 3 分支模型
-![image](http://www.igap.cc/group1/M00/09/C9/ClZX0FpuwNWANKYFAAEFCrJSq7E295.png)
+![image](../evun-git-flow.png)
 
 **Feature分支：**
 属于用户故事，当我们需要开发一个新功能时，需要建立该分支，该分支主要用于开发环境，进行开发测试以及测试阶段的bug修复。
